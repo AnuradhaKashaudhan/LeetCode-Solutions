@@ -139,6 +139,7 @@ AI & Machine Learning Enthusiast • Competitive Programmer • Full Stack Devel
 
 <a href="https://leetcode.com/u/Anuradha_15/">
 <img src="https://leetcard.jacoblin.cool/Anuradha_15?theme=dark&font=Poppins&ext=contest"/>
+
 </a>
 
 </p>
