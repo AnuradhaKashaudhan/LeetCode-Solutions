@@ -157,28 +157,41 @@ AI & Machine Learning Enthusiast • Competitive Programmer • Full Stack Devel
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<td align="center">
+<a href="https://www.linkedin.com/in/anuradha-kashaudhan-14a4a8283/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
+<br>
+<b>LinkedIn</b>
+</td>
 
-&nbsp;&nbsp;
+<td width="40"></td>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+<td align="center">
+<a href="https://leetcode.com/u/Anuradha_15/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
 </a>
+<br>
+<b>LeetCode</b>
+</td>
 
-&nbsp;&nbsp;
+<td width="40"></td>
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
+<td align="center">
+<a href="https://www.geeksforgeeks.org/profile/anuradhaka4050?tab=activity" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
 </a>
+<br>
+<b>GeeksforGeeks</b>
+</td>
 
-</p>
-
+</tr>
+</table>
 ---
 
 # 💭 Random Dev Quote
